@@ -2,8 +2,7 @@
 Used machine learning algorithms such as Logistic Regression and Random Forest to predict the risk of patients developing cirhosis.
 
 Purpose:Over 31,000 people die from Liver Disease each year in the United States. Many of these diseases can be better predicted using lab
-values taken from a patients blood. Some of these lab values include ALT,AST, Albumin etc. Each of these terms and ranges have been written
-in the document "Common Diagnosis based on Liver Enzyme Levels" 
+values taken from a patients blood. Some of these lab values include ALT,AST, Albumin etc. Each of these terms and ranges have been better explaind in the document "Common Diagnosis based on Liver Enzyme Levels" 
 
 # Methods
  - Read LiverEnzymes DataSet and Import
